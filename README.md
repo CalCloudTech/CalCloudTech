@@ -12,4 +12,4 @@ My name is Cal and I am an Azure Solutions Architect, I do my best to keep up wi
     ⚡ Fun fact 1: I am a huge fan of motorsport such as F1, MotoGP and Supercross/Motocross
     ⚡ Fun fact 2: I am South African but I have immigrated to the Netherlands.. Mijn Nederlands is slecht, maar ik ben nog aan het leren!
 
-Linkedin: [Cal Pretorius](https://www.linkedin.com/in/cal-pretorius/)
+#0A66C2 [Cal Pretorius](https://www.linkedin.com/in/cal-pretorius/)
