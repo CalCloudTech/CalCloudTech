@@ -14,6 +14,4 @@ My name is Cal and I am an Azure Solutions Architect, I do my best to keep up wi
 
 [![Linkedin: Ryan Yates](https://img.shields.io/badge/-Cal%20Pretorius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cal-pretorius/)](https://www.linkedin.com/in/cal-pretorius/)
 
-LinkedIn: [Cal Pretorius](https://www.linkedin.com/in/cal-pretorius/)
-
-[![Cal's GitHub stats](https://github-readme-stats.vercel.app/api?username=calcloudtech&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Cal's GitHub stats](https://github-readme-stats.vercel.app/api?username=calcloudtech&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calcloudtech&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
