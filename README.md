@@ -12,7 +12,7 @@ My name is Cal and I am an Azure Solutions Architect, I do my best to keep up wi
     ⚡ Fun fact 1: I am a huge fan of motorsport such as F1, MotoGP and Supercross/Motocross
     ⚡ Fun fact 2: I am South African but I have immigrated to the Netherlands.. Mijn Nederlands is slecht, maar ik ben nog aan het leren!
 
-[![Linkedin: Ryan Yates](https://img.shields.io/badge/-Ryan%20Yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cal-pretorius/)](https://www.linkedin.com/in/cal-pretorius/)
+[![Linkedin: Ryan Yates](https://img.shields.io/badge/-Cal%20Pretorius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cal-pretorius/)](https://www.linkedin.com/in/cal-pretorius/)
 
 LinkedIn: [Cal Pretorius](https://www.linkedin.com/in/cal-pretorius/)
 
